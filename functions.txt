@@ -1,8 +1,5 @@
-ADD
+
 SUB
-<<<<<<< HEAD
 MUL
+DIV
 MOD
-=======
-MUL
->>>>>>> af5dfe5 (CDPM-04: Implement division (Nguyen Ha))
